@@ -30,7 +30,7 @@ The analysis found that:
 ### Conclusion
 This exploratory analysis provides insights into the sales made during the Diwali season. Based on the analysis of the Diwali sales data, there are several recommendations that businesses can consider to increase revenue during the Diwali season:
 
-* Focus on products that are in high demand - The analysis showed that the Clothing, Jewelry, and Electronics categories had the highest sales. Therefore, businesses should focus on these categories and ensure they have a wide variety of products to meet customer demands.
+* Focus on products that are in high demand - The analysis showed that the Clothing, Clothing and Electronics categories had the highest sales. Therefore, businesses should focus on these categories and ensure they have a wide variety of products to meet customer demands.
 
 * Target the right customer groups - The analysis showed that females, particularly those in the 26-35 age group, made the most purchases. Businesses should focus their marketing efforts on this group and offer them attractive deals and discounts.
 
@@ -39,8 +39,11 @@ This exploratory analysis provides insights into the sales made during the Diwal
 ### Recommendation - Increasing Sales Among Male Customers
 Based on the exploratory analysis, it was found that males made fewer purchases during the Diwali season compared to females. To increase sales among male customers, businesses can consider the following strategies:
 * Offer products that appeal to male customers - Businesses can focus on offering products that are popular among men, such as electronics, gadgets, and sports equipment, to attract more male customers.
+
 * Customize marketing efforts - Advertisements and promotions should feature products that appeal to men and be designed to attract their attention. Businesses can create marketing campaigns that specifically target male customers.
+
 * Provide special discounts - Offering exclusive discounts or promotions for male customers can be an effective way to attract more sales. For example, businesses can offer a discount on a popular electronic gadget or run a "buy one, get one free" offer on any item.
+
 * Increase social media engagement - Social media platforms such as Facebook, Instagram, and Twitter are great channels to engage with potential male customers. Businesses can utilize these platforms to showcase their products and interact with customers, by sharing engaging content or running social media campaigns.
 
 By implementing these strategies, businesses can increase their sales among male customers during the Diwali season and maximize their profits.
