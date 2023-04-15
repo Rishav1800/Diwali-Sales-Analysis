@@ -13,7 +13,7 @@ The analysis was done using Jupyter Notebook, and the code is stored in the Diwa
 
 The analysis includes the following steps:
 
-* Loading the data and dropping empty and null columns
+* Loading and cleaning data
 * Exploring the gender distribution of sales
 * Analyzing sales by age group
 * Examining sales by state
