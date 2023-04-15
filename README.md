@@ -30,7 +30,7 @@ The analysis found that:
 ### Conclusion
 This exploratory analysis provides insights into the sales made during the Diwali season. Based on the analysis of the Diwali sales data, there are several recommendations that businesses can consider to increase revenue during the Diwali season:
 
-* Focus on products that are in high demand - The analysis showed that the Clothing, Clothing and Electronics categories had the highest sales. Therefore, businesses should focus on these categories and ensure they have a wide variety of products to meet customer demands.
+* Focus on products that are in high demand - The analysis showed that the Food, Clothing and Electronics categories had the highest sales. Therefore, businesses should focus on these categories and ensure they have a wide variety of products to meet customer demands.
 
 * Target the right customer groups - The analysis showed that females, particularly those in the 26-35 age group, made the most purchases. Businesses should focus their marketing efforts on this group and offer them attractive deals and discounts.
 
