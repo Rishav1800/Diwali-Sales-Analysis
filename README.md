@@ -27,6 +27,15 @@ The analysis found that:
 * The top-selling product categories were Food, Clothing & Apparel and Electronics & gadgets while the top ordered products were P00265242, P00110942 and P00237542
 * The state with the highest sale was Uttar Pradesh, Maharashtra and Karnataka and the occupation with the highest sales come from IT Sector, Healthcare and Aviation
 
+### Conclusion
+This exploratory analysis provides insights into the sales made during the Diwali season. Based on the analysis of the Diwali sales data, there are several recommendations that businesses can consider to increase revenue during the Diwali season:
+
+* Focus on products that are in high demand - The analysis showed that the Clothing, Jewelry, and Electronics categories had the highest sales. Therefore, businesses should focus on these categories and ensure they have a wide variety of products to meet customer demands.
+
+* Target the right customer groups - The analysis showed that females, particularly those in the 26-35 age group, made the most purchases. Businesses should focus their marketing efforts on this group and offer them attractive deals and discounts.
+
+* Expand the product line - The analysis identified the top-selling products, and businesses can expand their product line to include similar products or product variations that appeal to customers.
+
 ### Recommendation - Increasing Sales Among Male Customers
 Based on the exploratory analysis, it was found that males made fewer purchases during the Diwali season compared to females. To increase sales among male customers, businesses can consider the following strategies:
 * Offer products that appeal to male customers - Businesses can focus on offering products that are popular among men, such as electronics, gadgets, and sports equipment, to attract more male customers.
@@ -36,7 +45,3 @@ Based on the exploratory analysis, it was found that males made fewer purchases 
 
 By implementing these strategies, businesses can increase their sales among male customers during the Diwali season and maximize their profits.
 
-
-
-### Conclusion
-This exploratory analysis provides insights into the sales made during the Diwali season. The analysis can be further extended to provide more in-depth insights and to identify patterns that can help businesses make better decisions during the festive season.
