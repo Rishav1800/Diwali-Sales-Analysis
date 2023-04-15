@@ -28,7 +28,7 @@ The analysis found that:
 * The state with the highest sale was Uttar Pradesh, Maharashtra and Karnataka and the occupation with the highest sales come from IT Sector, Healthcare and Aviation
 
 ### Recommendation - Increasing Sales Among Male Customers
-* Based on the exploratory analysis, it was found that males made fewer purchases during the Diwali season compared to females. To increase sales among male customers, businesses can consider the following strategies:
+Based on the exploratory analysis, it was found that males made fewer purchases during the Diwali season compared to females. To increase sales among male customers, businesses can consider the following strategies:
 * Offer products that appeal to male customers - Businesses can focus on offering products that are popular among men, such as electronics, gadgets, and sports equipment, to attract more male customers.
 * Customize marketing efforts - Advertisements and promotions should feature products that appeal to men and be designed to attract their attention. Businesses can create marketing campaigns that specifically target male customers.
 * Provide special discounts - Offering exclusive discounts or promotions for male customers can be an effective way to attract more sales. For example, businesses can offer a discount on a popular electronic gadget or run a "buy one, get one free" offer on a sports equipment item.
