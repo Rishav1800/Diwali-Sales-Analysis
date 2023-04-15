@@ -16,3 +16,12 @@ The analysis includes the following steps:
 * Investigating sales by occupation
 * Studying the sales by product category
 * Identifying the top 10 most ordered products
+
+### Results
+The analysis found that:
+* The majority of sales were made by married females, with the highest sales in the age group of 26-35 years old.
+* The top-selling product categories were Food, Clothing & Apparel and Electronics & gadgets while the top ordered products were P00265242, P00110942 and P00237542
+* The state with the highest sale was Uttar Pradesh, Maharashtra and Karnataka and the occupation with the highest sales come from IT Sector, Healthcare and Aviation
+
+### Conclusion
+This exploratory analysis provides insights into the sales made during the Diwali season. The analysis can be further extended to provide more in-depth insights and to identify patterns that can help businesses make better decisions during the festive season.
