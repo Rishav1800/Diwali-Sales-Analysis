@@ -32,7 +32,7 @@ Based on the exploratory analysis, it was found that males made fewer purchases 
 * Offer products that appeal to male customers - Businesses can focus on offering products that are popular among men, such as electronics, gadgets, and sports equipment, to attract more male customers.
 * Customize marketing efforts - Advertisements and promotions should feature products that appeal to men and be designed to attract their attention. Businesses can create marketing campaigns that specifically target male customers.
 * Provide special discounts - Offering exclusive discounts or promotions for male customers can be an effective way to attract more sales. For example, businesses can offer a discount on a popular electronic gadget or run a "buy one, get one free" offer on any item.
-*Increase social media engagement - Social media platforms such as Facebook, Instagram, and Twitter are great channels to engage with potential male customers. Businesses can utilize these platforms to showcase their products and interact with customers, by sharing engaging content or running social media campaigns.
+* Increase social media engagement - Social media platforms such as Facebook, Instagram, and Twitter are great channels to engage with potential male customers. Businesses can utilize these platforms to showcase their products and interact with customers, by sharing engaging content or running social media campaigns.
 
 By implementing these strategies, businesses can increase their sales among male customers during the Diwali season and maximize their profits.
 
